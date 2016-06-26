@@ -1,0 +1,12 @@
+{
+  "title": "Ser creativo",
+  "packages": {
+    "akryum_vue_i18n_ui": {
+      "remember": {
+        "info": "¿Quieres recordar su elección?",
+        "yes": "Sí",
+        "no": "No"
+      }
+    }
+  }
+}

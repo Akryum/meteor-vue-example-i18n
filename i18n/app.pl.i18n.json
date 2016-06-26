@@ -1,0 +1,12 @@
+{
+  "title": "Bądź kreatywny",
+  "packages": {
+    "akryum_vue_i18n_ui": {
+      "remember": {
+        "info": "Chcesz zapamiętać swój wybór?",
+        "yes": "Tak",
+        "no": "Nie"
+      }
+    }
+  }
+}

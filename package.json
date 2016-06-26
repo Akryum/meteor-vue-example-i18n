@@ -1,0 +1,16 @@
+{
+  "name": "meteor-vue-example-i18n",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "meteor-node-stubs": "~0.2.0"
+  },
+  "devDependencies": {
+    "vue": "^1.0.24",
+    "vue-i18n": "^4.0.1",
+    "locale": "^0.1.0",
+    "js-cookie": "^2.1.2"
+  }
+}
